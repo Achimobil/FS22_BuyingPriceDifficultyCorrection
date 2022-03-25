@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="64">
+    <author>Achimobil</author>
+    <version>0.1.0.0</version>
+    <title>
+        <en>Buying Price Difficulty And Display Correction</en>
+        <de>Einfaufspreisanpassung An Schwierigkeitsgrad</de>
+    </title>
+    <description>
+        <en>
+            <![CDATA[Correct the wrong buying prices shown now per 1000 instead of 100 in the price list.
+Change the buying prices based on difficulty level like the selling prices]]>
+        </en>
+        <de>
+            <![CDATA[Korrigiert die falschen Einkaufspreise, die jetzt in der Preisliste pro 1000 angezeigt werden statt wie bisher pro 100.
+Ändert die Einkaufspreise basierend auf dem Schwierigkeitsgrad wie die Verkaufspreise.]]>
+        </de>
+    </description>
+    <iconFilename>ModIcon.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="BuyingPriceDifficultyCorrection.lua"/>
+    </extraSourceFiles>
+</modDesc>

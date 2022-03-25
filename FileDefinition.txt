@@ -1,0 +1,4 @@
+modIcon.dds
+*.lua
+*.xml
+*.dds
