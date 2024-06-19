@@ -28,7 +28,7 @@ Diese Korrektur ist in Production Revamp bereits enthalten und kann dort im MenÃ
 Dieser Mod ist fÃ¼r Server gedacht auf denen Revamp nicht benutzt werden kann oder auf denen man Revamp nicht benutzen will.]]>
         </de>
     </description>
-    <iconFilename>ModIcon.dds</iconFilename>
+    <iconFilename>icon_BuyingPriceDifficultyCorrection.dds</iconFilename>
     <multiplayer supported="true"/>
     <extraSourceFiles>
         <sourceFile filename="BuyingPriceDifficultyCorrection.lua"/>
