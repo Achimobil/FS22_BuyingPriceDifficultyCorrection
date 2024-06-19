@@ -1,7 +1,7 @@
 # FS22_BuyingPriceDifficultyCorrection
 
 Kleiner Mod um die EK Preise von Kaufstationen an den Schwierigkeitsgrad an zu passen so dass nicht durch billigen EK und teuren VK Geld auf MP Servern gecheatet werden kann.
-Funktion ist auch in Revamp enthalten, aber nicht auf jeder KArte kann man Revamp nutzen.
+Funktion ist auch in Revamp enthalten, aber nicht auf jeder Karte kann man Revamp nutzen.
 
 # General
 ## DE
