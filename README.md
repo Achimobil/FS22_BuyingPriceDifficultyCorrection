@@ -3,6 +3,8 @@
 Kleiner Mod um die EK Preise von Kaufstationen an den Schwierigkeitsgrad an zu passen so dass nicht durch billigen EK und teuren VK Geld auf MP Servern gecheatet werden kann.
 Funktion ist auch in Revamp enthalten, aber nicht auf jeder Karte kann man Revamp nutzen.
 
+https://www.farming-simulator.com/mod.php?lang=de&country=de&mod_id=294768&title=fs2022
+
 # General
 ## DE
 Alles in meinen Mods darf weder komplett noch in Teilen in eigene Mods kopiert oder in irgendeiner anderen Form weiterveröffentlicht werden, es sei denn es wird ausdrücklich erlaubt.
